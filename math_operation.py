@@ -1,0 +1,15 @@
+a= input("first number")
+b= input("second 1number")
+a=int(a)
+b=int(b)
+print(a+b)
+print(a-b)
+print(a*b)
+print(a/b)
+print(a//b)
+print(a%b)
+c=True
+d=False
+print(c and d)
+print(c or d)
+print(not d)
